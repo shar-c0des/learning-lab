@@ -13,10 +13,12 @@
 | 00 | Hello, World | [Link](./learning/drills/30-days-of-code/00%20Hello,%20World.py) | ✅ |
 | 01 | Data Types | [Link](./learning/drills/30-days-of-code/01%20Data%20Types.py) | ✅ |
 | 02 | Operators | - | ⏳ |
+| 03 | Conditional Statements | - | ⏳ |
 
 ---
 
-## 🛠️ Environment
-* **Language:** Python 3.12
-* **IDE:** PyCharm
-* **Methodology:** Atomic Commits & Clean Code
+## 🛠️ Setup & Standards
+* **Language:** Python 3.x
+* **IDE:** PyCharm / IntelliJ
+* **Commit Style:** [Conventional Commits](https://www.conventionalcommits.org/) 
+* **Goal:** Complete the challenge by January 2026.
