@@ -27,6 +27,7 @@ Welcome to the **Learning Lab**! This repo serves as my public learning repo for
 ├── foundations/       # Basic knowledge and core skills
 ├── learning/          # Main learning content
 │   ├── builds/        # Project building practice
+|   ├── Libraries/     #python libraries 
 │   ├── drills/        # Skill training and practice(leetcode, hackerrank, etc.)
 │   └── questions/     # Problems and solutions
 ├── outputs/           # Learning outcomes (big projects and passion projects - links to active repos)
