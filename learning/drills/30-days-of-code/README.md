@@ -10,8 +10,8 @@
 
 | Day | Topic | Solution | Status |
 | :--- | :--- | :--- | :--- |
-| 00 | Hello, World | [Link](./30-days-of-code/00_Hello_World.py) | ✅ |
-| 01 | Data Types | [Link](./30-days-of-code/01_Data_Types.py) | ✅ |
+| 00 | Hello, World | [Link](./30-days-of-code/00 Hello, World.py) | ✅ |
+| 01 | Data Types | [Link](./30-days-of-code/01 Data Types.py) | ✅ |
 | 02 | Operators | - | ⏳ |
 
 ---
