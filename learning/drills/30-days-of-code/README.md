@@ -10,10 +10,10 @@
 
 | Day | Topic | Solution | Status |
 | :--- | :--- | :--- | :--- |
-| 00 | Hello, World | [Link](./00%20Hello,%20World.py) | ✅ |
-| 01 | Data Types | [Link](./01%20Data%20Types.py) | ✅ |
-| 02 | Operators | - | ⏳ |
-| 03 | Conditional Statements | - | ⏳ |
+| 00 | Hello, World | [Link](./00%20Hello,%20World.py) | ◯ |
+| 01 | Data Types | [Link](./01%20Data%20Types.py) | ◯|
+| 02 | Operators | [Link](./02%20Arithmetic%20operators.py) | ◯ |
+| 03 | Conditional Statements | - | ✘|
 
 ---
 
