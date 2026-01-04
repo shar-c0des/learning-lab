@@ -14,6 +14,17 @@
 | 01 | Data Types | [Link](./01%20Data%20Types.py) | ◯|
 | 02 | Operators | [Link](./02%20Arithmetic%20operators.py) | ◯ |
 | 03 | Conditional Statements | [Link](./02%20Conditional%20statements.py) | ◯ |
+| 04 | Class vs Instances |  [Link](./00%20Class%20vs.%20Instance.py) | ◯ |
+| 05 | Loops |  [Link](./00%20loops.py) | ◯ |
+| 06 | Review|  [Link](./00%20Review.py) | ◯ |
+| 07 |Arrays|  [Link](./00%20Arrays.py) | ◯ |
+| 08 |Dictionaries and maps|  [Link](./00%20Dictionaries%20&%20Maps.py) | ◯ |
+| 09 | Recursion|  [Link](./00%20Recursiond.py) | ◯ |
+| 10 | Binary|  [Link](./00%20Binary.py) | ◯ |
+| 11 | 2D Array|  [Link](./00%202D%20Array.py) | ◯ |
+| 12 | Inheritance|  [Link](./00%20Inheritance.py) | ◯ |
+| 13 | Abstract classes|  [Link](./00%20Abstract%20classes.py) | ◯ |
+| 14 | Scopes|  [Link](./00%20Scope.py) | ◯ |
 
 ---
 
