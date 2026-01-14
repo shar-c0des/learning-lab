@@ -25,7 +25,7 @@
 | 12 | Inheritance|  [Link](./12%20Inheritance.py) | ◯ |
 | 13 | Abstract classes|  [Link](./13%20Abstract%20classes.py) | ◯ |
 | 14 | Scopes|  [Link](./14%20Scope.py) | ◯ |
-
+| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
 ---
 
 ## 🛠️ Setup & Standards
