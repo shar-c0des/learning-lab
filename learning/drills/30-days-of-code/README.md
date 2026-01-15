@@ -1,42 +1,52 @@
-# 30 Days of Code | HackerRank
+### 30 Days of Code | HackerRank 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Status](https://img.shields.io/badge/Status-In--Progress-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Progressing-ffb6c1?style=for-the-badge&labelColor=white)
 ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-> **"Action is the best way to beat anxiety."**
 
-## 📊 Progress Tracker
+## Progress Tracker
 
 | Day | Topic | Solution | Status |
-| :--- | :--- | :--- | :--- |
-| 00 | Hello, World | [Link](./00%20Hello,%20World.py) | ◯ |
-| 01 | Data Types | [Link](./01%20Data%20Types.py) | ◯|
-| 02 | Operators | [Link](./02%20Arithmetic%20operators.py) | ◯ |
-| 03 | Conditional Statements | [Link](./03%20Conditional%20statements.py) | ◯ |
-| 04 | Class vs Instances |  [Link](./04%20Class%20vs.%20Instance.py) | ◯ |
-| 05 | Loops |  [Link](./05%20loops.py) | ◯ |
-| 06 | Review|  [Link](./06%20Review.py) | ◯ |
-| 07 |Arrays|  [Link](./07%20Arrays.py) | ◯ |
-| 08 |Dictionaries and maps|  [Link](./08%20Dictionaries%20&%20Maps.py) | ◯ |
-| 09 | Recursion|  [Link](./09%20Recursiond.py) | ◯ |
-| 10 | Binary|  [Link](./10%20Binary.py) | ◯ |
-| 11 | 2D Array|  [Link](./11%202D%20Array.py) | ◯ |
-| 12 | Inheritance|  [Link](./12%20Inheritance.py) | ◯ |
-| 13 | Abstract classes|  [Link](./13%20Abstract%20classes.py) | ◯ |
-| 14 | Scopes|  [Link](./14%20Scope.py) | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
-| 15 | Linked lists| [Link](./15%20Linked%20lists.py)  | ◯ |
----
+| :--- | :--- | :--- | :---: |
+| 00 | Hello, World | [Link](./Day00_HelloWorld.py) | ● |
+| 01 | Data Types | [Link](./Day01_DataTypes.py) | ● |
+| 02 | Operators | [Link](./Day02_Operators.py) | ● |
+| 03 | Conditional Statements | [Link](./Day03_ConditionalStatements.py) | ● |
+| 04 | Classes & Instances | [Link](./Day04_ClassVsInstances.py) | ● |
+| 05 | Loops | [Link](./Day05_Loops.py) | ● |
+| 06 | Review | [Link](./Day06_Review.py) | ● |
+| 07 | Arrays | [Link](./Day07_Arrays.py) | ● |
+| 08 | Dictionaries & Maps | [Link](./Day08_DictionariesAndMaps.py) | ● |
+| 09 | Recursion | [Link](./Day09_Recursion.py) | ● |
+| 10 | Binary Numbers | [Link](./Day10_BinaryNumbers.py) | ● |
+| 11 | 2D Arrays | [Link](./Day11_2DArrays.py) | ● |
+| 12 | Inheritance | [Link](./Day12_Inheritance.py) | ● |
+| 13 | Abstract Classes | [Link](./Day13_AbstractClasses.py) | ● |
+| 14 | Scope | [Link](./Day14_Scope.py) | ● |
+| 15 | Linked Lists | [Link](./Day15_LinkedLists.py) | ● |
+| 16 | Exceptions (String to Integer) | [Link](./Day16_Exceptions.py) | ● |
+| 17 | More Exceptions | [Link](./Day17_MoreExceptions.py) | ● |
+| 18 | Stacks & Queues (Palindrome) | [Link](./Day18_StacksAndQueues.py) | ● |
+| 19 | Interfaces (Divisor Sum) | [Link](./Day19_Interfaces.py) | ● |
+| 20 | Sorting (Bubble Sort) | [Link](./Day20_Sorting.py) | ● |
+| 21 | Generics (Print Array) | [Link](./Day21_Generics.py) | ● |
+| 22 | BST Height | [Link](./Day22_BSTHeight.py) | ● |
+| 23 | BST Level-Order Traversal | [Link](./Day23_BSTLevelOrder.py) | ● |
+| 24 | Linked Lists (Remove Duplicates) | [Link](./Day24_LinkedListsRemoveDuplicates.py) | ● |
+| 25 | Primality Test (Time Complexity) | [Link](./Day25_PrimalityTest.py) | ● |
+| 26 | Nested Logic | [Link](./Day26_NestedLogic.py) | ○ |
+| 27 | Testing | [Link](./Day27_Testing.py) | ○ |
+| 28 | RegEx, Patterns, Intro to DB | [Link](./Day28_RegexDatabase.py) | ○ |
+| 29 | Bitwise AND | [Link](./Day29_BitwiseAND.py) | ○ |
 
-## 🛠️ Setup & Standards
-* **Language:** Python 3.x
-* **IDE:** PyCharm / IntelliJ
-* **Commit Style:** [Conventional Commits](https://www.conventionalcommits.org/) 
-* **Goal:** Complete the challenge by January 2026.
+
+
+## Setup and Standards
+
+*   **Language:** Python 3.x
+*   **IDE:** PyCharm / IntelliJ
+*   **Commit Style:** [Conventional Commits](https://www.conventionalcommits.org/)
+*   **Goal:** Complete the challenge by January 2026.
+
+
