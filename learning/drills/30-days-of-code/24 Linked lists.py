@@ -23,7 +23,6 @@ class Solution:
 
     def removeDuplicates(self,head):
          current = head
-
          while current and current.next:
              if current.data == current.next.data:
                  current.next = current.next.next
@@ -32,10 +31,6 @@ class Solution:
                  current = current.next
          return head
             
-       
-
-
-
 mylist= Solution()
 T=int(input())
 head=None
