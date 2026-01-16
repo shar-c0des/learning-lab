@@ -1,4 +1,4 @@
-<h1 align='center'> Learning Lab: My Practice Space </h1>
+<h1 align='center'> DAILY_STUDY: My Practice Space </h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="600" alt="Pastel Hello Kitty Banner" style="border-radius: 8px; margin: 8px 0;" />
   <br>
